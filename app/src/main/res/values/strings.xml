@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Passing Data Between Activities</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="apply">Apply</string>
+    <string name="country">Country</string>
+    <string name="Secondactivity">SecondActivity</string>
+    <string name="secondActivity">SecondActivity</string>
+    <string name="secondactivity">SecondActivity</string>
+</resources>
